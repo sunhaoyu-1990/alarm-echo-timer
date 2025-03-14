@@ -1,0 +1,17 @@
+
+{
+  "name": "间隔闹钟",
+  "short_name": "闹钟",
+  "description": "可自定义间隔时间及次数的闹钟应用",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#3399ff",
+  "icons": [
+    {
+      "src": "favicon.ico",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    }
+  ]
+}
